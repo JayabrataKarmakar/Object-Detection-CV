@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-thres = 0.45 # Threshold to detect object
+thres = 0.45 #Threshold to detect object
 nms_threshold = 0.2
 cap = cv2.VideoCapture(0)
 # cap.set(3,1280)
